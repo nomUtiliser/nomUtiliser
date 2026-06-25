@@ -1,7 +1,9 @@
 {
   "owner": "nomUtiliser",
   "lastestForPtf": {
-    "7.0": "1.0"
+    "7.3": "1.0",
+    "7.2": "1.0",
+    "7.1": "1.0"
   },
   "installUrl": "https://github.com/nomUtiliser/pototoClicker/releases/tag/",
   "link": "https://github.com/nomUtiliser/pototoClicker/",
@@ -11,7 +13,9 @@
     "1.0": {
       "hasOnlineDoc": false,
       "compatList": [
-        "7.0"
+        "7.3",
+        "7.2",
+        "7.1"
       ]
     }
   }
