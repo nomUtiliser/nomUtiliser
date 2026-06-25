@@ -11,6 +11,7 @@
   "jarName": "pototoClicker-",
   "versions": {
     "1.0": {
+      "type": "Alpha",
       "hasOnlineDoc": false,
       "compatList": [
         "7.3",
